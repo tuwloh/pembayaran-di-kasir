@@ -7,29 +7,29 @@
 link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/lihatkatalog.png
 
 - checkout
-![checkout](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/checkoutstoksudahberkurang.jpg)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/checkoutstoksudahberkurang.jpg
+![checkout](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/checkoutstoksudahberkurang.png)
+link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/checkoutstoksudahberkurang.png
 
 - stok habis
-![stok habis](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/stokhabis.jpg)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/
+![stok habis](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/stokhabis.png)
+link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/stokhabis.png
 
 - mengubah direktori terminal ke path proyek cli-kasir
-![mengubah direktori terminal ke path proyek cli-kasir](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/cdterminalkecli-kasir.jpg)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/cdterminalkecli-kasir.jpg
+![mengubah direktori terminal ke path proyek cli-kasir](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/cdterminalkecli-kasir.png)
+link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/cdterminalkecli-kasir.png
 
 - mengubah direktori terminal ke folder assignments
-![mengubah direktori terminal ke folder assignments](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/cdterminalkeassignments.jpg)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/cdterminalkeassignments.jpg
+![mengubah direktori terminal ke folder assignments](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/cdterminalkeassignments.png)
+link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/cdterminalkeassignments.png
 
 - menambah barang dan menyimpan ke katalog
-![menambah barang dan menyimpan ke katalog](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/tambahbarangsusu.jpg)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/tambahbarangsusu.jpg
+![menambah barang dan menyimpan ke katalog](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/tambahbarangsusu.png)
+link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/tambahbarangsusu.png
 
 - membeli barang
-![membeli barang](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/tambahkekeranjangsusu.jpg)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/tambahkekeranjangsusu.jpg
+![membeli barang](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/tambahkekeranjangsusu.png)
+link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/tambahkekeranjangsusu.png
 
 - melihat katalog yang masih kosong, karena belum ada barang yang diinput
-![melihat katalog yang masih kosong, karena belum ada barang yang diinput](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/katalogmasihkosong.jpg)
-link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/
+![melihat katalog yang masih kosong, karena belum ada barang yang diinput](https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/katalogmasihkosong.png)
+link: https://github.com/tuwloh/pembayaran-di-kasir/blob/main/assignments/meet-02/hidayatullah/cli-kasir/assets/katalogmasihkosong.png
